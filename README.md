@@ -13,8 +13,8 @@ nice -19 ./compile_HYBRID15_CLR.sh
 
 The run_model subroutine accepts a 21-element real(8) array for parameters (listed in order of highest sensitivity to lowest):
 
-Index | Parameter            | Description                             | Units
-------|----------------------|-----------------------------------------|--------------
+Index | Parameter            | Description                             | Units (I think)
+------|----------------------|-----------------------------------------|----------------
 1     | wfps_threshold       | Water-filled pore space threshold       | %
 2     | T_ref                | Reference temperature for respiration   | deg C
 3     | Vcmax_top            | Max carboxylation rate at canopy top    | mol m-2 s-1
